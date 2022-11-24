@@ -89,7 +89,7 @@ The fibonacci number F(14) = 377 = 377
 As seen from the output, taking number 14 as the input, both iterative and recursive approaches have the same results.
 
 ## Benchmark
-In this section, I will assess the performances of both iterative and recursive approahces through their time and space complexity.
+In this section, I will assess the performances of both iterative and recursive approaches through their time and space complexity.
 
 ### Time Complexity
 ### Iterative Approach
