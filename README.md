@@ -118,7 +118,7 @@ Time elapsed: 0.938666 s
 As seen from the outputs, using the iterative approach is faster than the recursive approach.
 
 ### Space Complexity
-I use N = 100 to test out the space complexity of both approaches. The outputs for the space complexity can be seen below (taken from Activity Monitor).
+I use 100 as the input to test out the space complexity of both approaches. The outputs for the space complexity can be seen below (taken from Activity Monitor).
 ### Iterative Approach
 - Run:
 ```
