@@ -2,6 +2,7 @@
 Fibonacci series is a series of numbers where the next number is the sum of the preceding two numbers.
 
 It works as follow.
+
 ![Space N = 1000](images/Fibonacci_series.png)
 
 It can be approach in two ways, either recursively or iteratively. In this repository, I will compare both of the approaches based on the time and space complexity.
