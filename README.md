@@ -141,10 +141,10 @@ As seen from the outputs, the iterative approach takes up less space than the re
 ## Conclusion
 In conclusion, approaching the fibonacci series iteratively is faster and it takes up less space than doing it recursively. 
 
-- Iterative Block Diagram
+Iterative Block Diagram
 ![Space N = 1000](images/Iterative_block.png)
 
-- Recursive Block Diagram
+Recursive Block Diagram
 ![Space N = 1000](images/Recursive_block.png)
 
 As seen from the illustrations above, this is because when doing the recursive approach, the program keeps adding and storing the redundant calls by recomputing the same values over and over again until you get the desired fibonacci result. Thus, taking up more time and space than the iterative approach, as it only stores the last two values and uses only those two values to calculate the desired fibonacci result.
