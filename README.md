@@ -1,7 +1,7 @@
 # Fibonacci Series
 Fibonacci series is a series of numbers where the next number is the sum of the preceding two numbers.
 
-It works as follow.
+It works as follows.
 
 ![Space N = 1000](images/Fibonacci_series.png)
 
@@ -32,7 +32,7 @@ int iterativeFibonacci(int num){
     
 }
 ```
-In the above program, the first and second number has assigned value 0 and 1 respectively, as the first and second number of the fibonacci series is fixed. 
+In the above program, the first and second number have assigned value 0 and 1 respectively, as the first and second number of the fibonacci series is fixed. 
 
 If the given number is equal to 0 and 1, we return both given numbers.
 
